@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CreatePlayer\CreateNewCharacter.cs">
+    <Files>
+      <File FileName="Assets\Turn Based Combat\TurnBasedCombatStateMachine.cs" Line="42" Column="1" />
+      <File FileName="Assets\Base Player\BasePlayer.cs" Line="48" Column="2" />
+      <File FileName="Assets\CreatePlayer\CreateNewCharacter.cs" Line="21" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
