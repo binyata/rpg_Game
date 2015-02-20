@@ -10,7 +10,14 @@ public class BasePlayer : MonoBehaviour {
 	private int endurance;
 	private int intellect;
 	private int strength;
+	private int currentXP;
+	private int requiredXP;
 
+
+	public int CurrentXP{ get; set; }
+	public int RequiredXP{ get; set; }
+
+	// public string PlayerName{get;set;}
 	public string PlayerName{
 		get{ return playerName;}
 		set{ playerName = value;}

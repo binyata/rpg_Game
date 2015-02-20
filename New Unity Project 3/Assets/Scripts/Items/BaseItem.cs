@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+[System.Serializable]
 public class BaseItem{
-	
+	// cant serialize an image
 	private string itemName;
 	private string itemDescription;
 	private int itemID;

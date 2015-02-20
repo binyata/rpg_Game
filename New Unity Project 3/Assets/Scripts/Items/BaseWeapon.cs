@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+[System.Serializable]
 public class BaseWeapon : BaseStatItem {	//BaseWeapon <- BaseStatItem <- BaseItem
 	
 	public enum WeaponTypes{

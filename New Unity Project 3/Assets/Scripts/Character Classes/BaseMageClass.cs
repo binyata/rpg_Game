@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+[System.Serializable]
 public class BaseMageClass : BaseCharacterClass {
 	
 	// Use this for initialization

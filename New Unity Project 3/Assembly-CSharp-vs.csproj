@@ -48,9 +48,17 @@
   <ItemGroup>
      <Compile Include="Assets\Base Player\BasePlayer.cs" />
      <Compile Include="Assets\CreatePlayer\CreateNewCharacter.cs" />
+     <Compile Include="Assets\GameInformation\GameInformation.cs" />
+     <Compile Include="Assets\Player Movement\PlayerController.cs" />
+     <Compile Include="Assets\Player Movement\PlayerMovement.cs" />
+     <Compile Include="Assets\SavingAndLoading\LoadInformation.cs" />
+     <Compile Include="Assets\SavingAndLoading\PPSerialization.cs" />
+     <Compile Include="Assets\SavingAndLoading\SaveInformation.cs" />
+     <Compile Include="Assets\Scenes\TsetScript.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseCharacterClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseMageClass.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseWarriorClass.cs" />
+     <Compile Include="Assets\Scripts\IncreaseExperience.cs" />
      <Compile Include="Assets\Scripts\Items\BaseEquipment.cs" />
      <Compile Include="Assets\Scripts\Items\BaseItem.cs" />
      <Compile Include="Assets\Scripts\Items\BasePotion.cs" />
@@ -61,6 +69,7 @@
      <Compile Include="Assets\Scripts\Items\CreateNewPotion.cs" />
      <Compile Include="Assets\Scripts\Items\CreateNewScroll.cs" />
      <Compile Include="Assets\Scripts\Items\CreateNewWeapon.cs" />
+     <Compile Include="Assets\Scripts\RewardExperiencePoints.cs" />
      <Compile Include="Assets\Scripts\TestGUI.cs" />
      <Compile Include="Assets\Turn Based Combat\TurnBasedCombatStateMachine.cs" />
  <Reference Include="UnityEngine.UI">

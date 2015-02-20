@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+[System.Serializable]
 public class BaseScroll : BaseItem {
 	
 	private int spellEffectID;
